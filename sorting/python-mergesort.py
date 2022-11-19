@@ -28,7 +28,6 @@ def mergeSort(arr):
 
 
 
-
 print('before sort:')
 print(randomArr)
 print('---------------------------')
